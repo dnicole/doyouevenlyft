@@ -1,0 +1,29 @@
+{
+  "name": "doyouevenlyft",
+  "version": "1.0.0",
+  "description": "comments about how lyft makes our lives better",
+  "main": "index.js",
+  "repository": {
+    "type": "git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^3.9.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-connect": "^2.2.0",
+    "gulp-jshint": "^1.11.2",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^1.2.0",
+    "express": "~4.9.x",
+    "angular": "^1.4.7",
+    "mongodb": "^2.0.46"
+  },
+  "engines": {
+    "node": "0.10.x",
+    "npm": "2.1.14"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
